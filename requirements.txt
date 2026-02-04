@@ -1,0 +1,32 @@
+# Core ML frameworks
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+torchdiffeq==0.2.5
+torchcde==0.2.5
+
+# RL environment
+gymnasium==1.2.3
+
+# Scientific computing
+numpy==2.2.6
+scipy==1.15.3
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Data handling
+pandas==2.3.3
+PyYAML==6.0.3
+tqdm==4.67.3
+
+# Experiment tracking
+wandb==0.24.1
+
+# Development
+pytest==9.0.2
+jupyter==1.1.1
+
+# Note: For CUDA support on Windows, install PyTorch with:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
