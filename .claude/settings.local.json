@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(conda create:*)",
+      "Bash(conda activate:*)",
+      "Bash(C:/Users/YUS190/AppData/Local/anaconda3/envs/pirl_claude/python.exe:*)",
+      "Bash(python examples/test_pirl_world_model.py:*)",
+      "Bash(python examples/visualize_pirl_performance.py:*)",
+      "Bash(python -c:*)",
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh --version:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
